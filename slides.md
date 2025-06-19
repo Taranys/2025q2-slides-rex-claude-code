@@ -73,8 +73,8 @@ reverse: true
 # Les trucs cools
 
 - 🤖 L'IA fait très bien les tâches que je ne veux plus faire
-- 🎯 Je me concentre sur la valeur métier
-- 🏗️ Plus de temps pour l'architecture et la conception
+- 🎯 Je me concentre sur la valeur que je peux apporter
+- 🏗️ Ça force à avoir une définition très détaillée des tâches et une documentation de qualité
 
 </div>
 
@@ -82,28 +82,30 @@ reverse: true
 
 # Points d'attention
 
-- 🔍 Etre beaucoup plus strict sur les reviews
+- 🌱 Impact écologique (une génération de PR équivaut à 2h d'utilisation d'un MacBook à fond)
+- 💰 Coût de l'outil
 - 💾 Commit régulier
+- 🔍 Etre beaucoup plus strict sur les reviews
 - 🧪 Faire des reviews plus large que juste les fichiers et bien tester le comportement utilisateur
-- 🌱 Impact écologique
 
 </div>
-
 
 </div>
 
 ---
 layout: text-image
+media: ./images/vibe.png
 ---
 
 # Bonnes Pratiques
 
 <v-clicks>
 
-1. 🐣 **Commencer petit** - Débuter avec des tâches simples
-2. 📝 **Le contexte compte** - Fournir des prompts clairs et spécifiques
-3. 👀 **Tout review** - On reste responsable du code commité
-4. ✨ **La qualité maximise la valeur** - Utiliser Clean, code, documentation, ADR, ... permet d'avoir un meilleur résultat
+1. 🤖 **Considérer l'IA comme un.e dev junior un peu trop motivé**
+2. 🐣 **Commencer petit** - Débuter avec des tâches simples. C'est notre plus-value que de transformer une tâche complexe en tâches simples 
+3. 📝 **Le contexte compte** - Fournir des demandes claires et précises
+4. 👀 **Tout review** - On reste responsable du code commité
+5. ✨ **La qualité maximise la valeur** - Utiliser Clean code, documentation, ADR, ... permet d'avoir un meilleur résultat
 
 </v-clicks>
 
@@ -114,19 +116,21 @@ layout: text-image
 <v-clicks>
 
 1. 🤖 Ça fait très bien les taches que je ne veux plus faire
-2. 💎 Je me concentre sur la valeur métier
+2. 💎 Je me concentre sur la production de valeur pour l'utilisateur
 3. 🏛️ Plus de discussions d'architecture
+4. 🤯 Les erreurs de l'IA mettent en avant les dettes techniques et les manques de documentation
 
 </v-clicks>
 
+<br />
 
 # Mon retour en tant que Manager
 
 <v-clicks>
 
-1. 📈 Vu le gain de productivité, ca va devenir indispensable
+1. 📈 Vu le gain de productivité, ça va devenir indispensable
 2. 💡 De nouveaux cas d'usage toutes les semaines
-3. 📚 Meilleure documentation et code plus cohérents
+3. 📚 Force une meilleure documentation et un code plus cohérents
 
 </v-clicks>
 
@@ -139,7 +143,7 @@ layout: text-image
 <div>
 
 ## Au début de l'année
-- 😎 1 Promoteur (moi)
+- 🤩 1 Promoteur (moi)
 - 😐 2 Passifs
 - 😒 3 Détracteurs
 
@@ -150,7 +154,7 @@ layout: text-image
 ## Semaine dernière
 - 🤩 3 Promoteurs
 - 😐 3 Passifs
-- 🚫 0 Détracteurs
+- 😒 0 Détracteurs
 
 </div>
 
