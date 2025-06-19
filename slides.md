@@ -94,7 +94,7 @@ reverse: true
 
 ---
 layout: text-image
-media: ./images/vibe.png
+media: /images/vibe.png
 ---
 
 # Bonnes Pratiques
