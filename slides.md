@@ -15,7 +15,7 @@ presenterImage: https://media.licdn.com/dms/image/v2/C4D03AQERyoTK915g2w/profile
 ---
 
 # Claude Code
-## Retour d'expérience dans ma team
+## Retour d'expérience
 
 <div class="abs-br m-6 text-xl">
   <carbon:code class="text-2xl" />
@@ -23,7 +23,7 @@ presenterImage: https://media.licdn.com/dms/image/v2/C4D03AQERyoTK915g2w/profile
 
 ---
 layout: presenter
-presenterImage: https://media.licdn.com/dms/image/v2/C4D03AQERyoTK915g2w/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1516816750315?e=1755734400&v=beta&t=KCyzi74WRkd4ihXbhv7M_2yMXiW9LNy7XiG7wDmQmxI
+presenterImage: ./moi.jpeg
 ---
 
 # Yoann Prot
@@ -34,7 +34,7 @@ presenterImage: https://media.licdn.com/dms/image/v2/C4D03AQERyoTK915g2w/profile
 - 🍜 Ramen lover
 - 🍺 Brasseur amateur
 - ⚛️ React hater
-- 😄 Fan d'emojis, de memes et de GIFs
+- ♟️ Jeux de société addict
 
 ---
 layout: text-image
