@@ -84,9 +84,10 @@ reverse: true
 
 - 🌱 Impact écologique (une génération de PR équivaut à 2h d'utilisation d'un MacBook à fond)
 - 💰 Coût de l'outil
-- 💾 Commit régulier
+- 💾 Commit régulier car facile de tout perdre avec un prompt un peu flou
 - 🔍 Etre beaucoup plus strict sur les reviews
 - 🧪 Faire des reviews plus large que juste les fichiers et bien tester le comportement utilisateur
+- 🛠️ Pas de magie, c'est un outil comme un linter, un bundler, CI, .... C'est important d'apprendre à s'en servir correctement
 
 </div>
 
