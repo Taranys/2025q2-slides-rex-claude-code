@@ -30,11 +30,11 @@ presenterImage: https://media.licdn.com/dms/image/v2/C4D03AQERyoTK915g2w/profile
 
 - 👨‍💻 12 ans - Developpeur / Formateur / Tech lead - Zenika
 - 👨‍💼 4 ans - Engineering manager - Doctolib
+- ✨ Hype-driven developer
 - 🍜 Ramen lover
 - 🍺 Brasseur amateur
 - ⚛️ React hater
-- 😄 Fan d'emojis et de GIFs
-- 💼 [LinkedIn](https://www.linkedin.com/in/yoannprot/)
+- 😄 Fan d'emojis, de memes et de GIFs
 
 ---
 layout: text-image
@@ -94,7 +94,7 @@ reverse: true
 
 ---
 layout: text-image
-media: /images/vibe.png
+media: /vibe.png
 ---
 
 # Bonnes Pratiques
@@ -135,30 +135,21 @@ media: /images/vibe.png
 </v-clicks>
 
 ---
+layout: text-image
+media: https://pbs.twimg.com/media/GnqQKXfb0AAEEFT?format=jpg&name=large
+---
 
 # Au niveau de l'équipe (NPS)
-
-<div class="grid grid-cols-2 gap-4">
-
-<div>
 
 ## Au début de l'année
 - 🤩 1 Promoteur (moi)
 - 😐 2 Passifs
 - 😒 3 Détracteurs
 
-</div>
-
-<div>
-
 ## Semaine dernière
 - 🤩 3 Promoteurs
 - 😐 3 Passifs
 - 😒 0 Détracteurs
-
-</div>
-
-</div>
 
 ---
 
