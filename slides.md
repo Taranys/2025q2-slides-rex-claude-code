@@ -28,8 +28,13 @@ presenterImage: https://media.licdn.com/dms/image/v2/C4D03AQERyoTK915g2w/profile
 
 # Yoann Prot
 
-- 12 ans - Developpeur / Tech lead
-- 4 ans - Engineering manager - Doctolib
+- 👨‍💻 12 ans - Developpeur / Formateur / Tech lead - Zenika
+- 👨‍💼 4 ans - Engineering manager - Doctolib
+- 🍜 Ramen lover
+- 🍺 Brasseur amateur
+- ⚛️ React hater
+- 😄 Fan d'emojis et de GIFs
+- 💼 [LinkedIn](https://www.linkedin.com/in/yoannprot/)
 
 ---
 layout: text-image
@@ -39,11 +44,11 @@ reverse: true
 
 # Pourquoi Claude Code ?
 
-- Volonté de toujours pousser la performance en maintenant la qualité
-- Choix de la solution laissé à chacun (Claude Code, Copilot, Windsurf, Cursor)
-- **Outil CLI** sans lien avec l'IDE
-- Facile à étendre avec des commandes custom et une documentation spécifique sur CLAUDE.md
-- Automatiquement privilégie de petit model d'IA pour réduire l'impact et la facture
+- 🚀 Volonté de toujours pousser la performance en maintenant la qualité
+- 🎯 Choix de la solution laissé à chacun (Claude Code, Copilot, Windsurf, Cursor)
+- 💻 **Outil CLI** sans lien avec l'IDE
+- 🔧 Facile à étendre avec des commandes custom et une documentation spécifique sur CLAUDE.md
+- 💰 Automatiquement privilégie de petit model d'IA pour réduire l'impact et la facture
 
 ---
 
@@ -67,8 +72,9 @@ reverse: true
 
 # Les trucs cools
 
-- L'IA fait très bien les tâches que je ne veux plus faire
-- 
+- 🤖 L'IA fait très bien les tâches que je ne veux plus faire
+- 🎯 Je me concentre sur la valeur métier
+- 🏗️ Plus de temps pour l'architecture et la conception
 
 </div>
 
@@ -76,10 +82,10 @@ reverse: true
 
 # Points d'attention
 
-- Etre beaucoup plus strict sur les reviews
-- Commit régulier
-- Faire des reviews plus large que juste les fichiers et bien tester le comportement utilisateur
-- impact écologique
+- 🔍 Etre beaucoup plus strict sur les reviews
+- 💾 Commit régulier
+- 🧪 Faire des reviews plus large que juste les fichiers et bien tester le comportement utilisateur
+- 🌱 Impact écologique
 
 </div>
 
@@ -94,10 +100,10 @@ layout: text-image
 
 <v-clicks>
 
-1. **Commencer petit** - Débuter avec des tâches simples
-2. **Le contexte compte** - Fournir des prompts clairs et spécifiques
-3. **Tout review** - On reste responsable du code commité
-4. **La qualité maximise la valeur** - Utiliser Clean, code, documentation, ADR, ... permet d'avoir un meilleur résultat
+1. 🐣 **Commencer petit** - Débuter avec des tâches simples
+2. 📝 **Le contexte compte** - Fournir des prompts clairs et spécifiques
+3. 👀 **Tout review** - On reste responsable du code commité
+4. ✨ **La qualité maximise la valeur** - Utiliser Clean, code, documentation, ADR, ... permet d'avoir un meilleur résultat
 
 </v-clicks>
 
@@ -107,9 +113,9 @@ layout: text-image
 
 <v-clicks>
 
-1. Ça fait très bien les taches que je ne veux plus faire
-2. Je me concentre sur la valeur métier
-3. Plus de discussions d'architecture
+1. 🤖 Ça fait très bien les taches que je ne veux plus faire
+2. 💎 Je me concentre sur la valeur métier
+3. 🏛️ Plus de discussions d'architecture
 
 </v-clicks>
 
@@ -118,9 +124,9 @@ layout: text-image
 
 <v-clicks>
 
-1. Vu le gain de productivité, ca va devenir indispensable
-2. De nouveaux cas d'usage toutes les semaines
-3. Meilleure documentation et code plus cohérents
+1. 📈 Vu le gain de productivité, ca va devenir indispensable
+2. 💡 De nouveaux cas d'usage toutes les semaines
+3. 📚 Meilleure documentation et code plus cohérents
 
 </v-clicks>
 
@@ -133,18 +139,18 @@ layout: text-image
 <div>
 
 ## Au début de l'année
-- 1 Promoteur (moi)
-- 2 Passifs
-- 3 Détracteurs
+- 😎 1 Promoteur (moi)
+- 😐 2 Passifs
+- 😒 3 Détracteurs
 
 </div>
 
 <div>
 
 ## Semaine dernière
-- 3 Promoteurs
-- 3 Passifs
-- 0 Détracteurs
+- 🤩 3 Promoteurs
+- 😐 3 Passifs
+- 🚫 0 Détracteurs
 
 </div>
 
