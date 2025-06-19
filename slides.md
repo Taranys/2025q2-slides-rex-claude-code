@@ -34,7 +34,7 @@ presenterImage: ./moi.jpeg
 - 🍜 Ramen lover
 - 🍺 Brasseur amateur
 - ⚛️ React hater
-- ♟️ Jeux de société addict
+- 🧙‍♂️ Joueur (et parfois MJ) sur Dungeons & Dragons
 
 ---
 layout: text-image
